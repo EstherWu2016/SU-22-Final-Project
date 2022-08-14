@@ -1,0 +1,33 @@
+<div>
+  <link href="./android-small2.css" rel="stylesheet" />
+  <div>
+    <div class="android-small2-android-small2">
+      <span class="android-small2-text"><span>Food Rank</span></span>
+      <a href="android-small1.html" class="android-small2-navlink">
+        <img
+          src="/playground_assets/back1321-cqe-200h.png"
+          alt="back1321"
+          class="android-small2-back1"
+        />
+      </a>
+      <img
+        src="/playground_assets/kiraku1322-0vo-200h.png"
+        alt="Kiraku1322"
+        class="android-small2-kiraku1"
+      />
+      <img
+        src="/playground_assets/no21323-hml-200h.png"
+        alt="NO21323"
+        class="android-small2-n-o21"
+      />
+      <img
+        src="/playground_assets/no31324-xva-200h.png"
+        alt="NO31324"
+        class="android-small2-n-o31"
+      />
+      <span class="android-small2-text2"><span>No.1</span></span>
+      <span class="android-small2-text4"><span>No.2</span></span>
+      <span class="android-small2-text6"><span>No.3</span></span>
+    </div>
+  </div>
+</div>
