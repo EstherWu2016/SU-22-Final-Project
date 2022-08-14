@@ -1,0 +1,33 @@
+<div>
+  <link href="./android-small3.css" rel="stylesheet" />
+  <div>
+    <div class="android-small3-android-small3">
+      <a href="android-small2.html" class="android-small3-navlink">
+        <img
+          src="/playground_assets/back1320-2xna-200h.png"
+          alt="back1320"
+          class="android-small3-back1"
+        />
+      </a>
+      <span class="android-small3-text"><span>Kiraku</span></span>
+      <img
+        src="/playground_assets/img202208131345301330-335c-300h.png"
+        alt="IMG202208131345301330"
+        class="android-small3-i-m-g202208131345301"
+      />
+      <span class="android-small3-text2">
+        <span>
+          Unlike every other Japanese restaurant in America, Kiraku strives to
+          deliver a genuine izakaya experience. By emulating the style of a
+          modern izakaya popular in Japan, Kiraku hopes to spread the wonders of
+          this style of eating to as many people as possible. Opening in July
+          2011, Kiraku, which literally means to relax, wishes to ease the
+          stress of daily life by providing beer, sake, small plates, and the
+          atmosphere to enjoy company and conversation. When you first sit down
+          and receive a warm oshibori towel, it will surely refresh your spirits
+          and set the tone for your meal.
+        </span>
+      </span>
+    </div>
+  </div>
+</div>
