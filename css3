@@ -1,4 +1,4 @@
-.android-small2-android-small2 {
+.android-small3-android-small3 {
   width: 100%;
   height: 640px;
   display: flex;
@@ -12,30 +12,12 @@
   border-radius: 0px 0px 0px 0px;
   background-color: rgba(255, 255, 255, 1);
 }
-.android-small2-text {
-  top: 37px;
-  left: 91px;
-  color: rgba(0, 0, 0, 1);
-  height: auto;
-  position: absolute;
-  font-size: 40px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
-  margin-right: 0;
-  margin-bottom: 0;
-  text-decoration: none;
-}
-.android-small2-navlink {
+.android-small3-navlink {
   display: contents;
 }
-.android-small2-back1 {
-  top: 40px;
-  left: 30px;
+.android-small3-back1 {
+  top: 42px;
+  left: 20px;
   width: 37px;
   height: 36px;
   position: absolute;
@@ -45,46 +27,13 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.android-small2-kiraku1 {
-  top: 149px;
-  left: 36px;
-  width: 287px;
-  height: 120px;
-  position: absolute;
-  box-sizing: border-box;
-  border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
-}
-.android-small2-n-o21 {
-  top: 313px;
-  left: 30px;
-  width: 293px;
-  height: 119px;
-  position: absolute;
-  box-sizing: border-box;
-  border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
-}
-.android-small2-n-o31 {
-  top: 477px;
-  left: 30px;
-  width: 293px;
-  height: 125px;
-  position: absolute;
-  box-sizing: border-box;
-  border-color: transparent;
-  margin-right: 0;
-  margin-bottom: 0;
-}
-.android-small2-text2 {
-  top: 103px;
-  left: 36px;
+.android-small3-text {
+  top: 43px;
+  left: 134px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
-  font-size: 20px;
+  font-size: 30px;
   align-self: auto;
   font-style: Regular;
   text-align: left;
@@ -96,31 +45,24 @@
   margin-bottom: 0;
   text-decoration: none;
 }
-.android-small2-text4 {
-  top: 281px;
-  left: 36px;
-  color: rgba(0, 0, 0, 1);
-  height: auto;
+.android-small3-i-m-g202208131345301 {
+  top: 116px;
+  left: 33px;
+  width: 294px;
+  height: 204px;
   position: absolute;
-  font-size: 20px;
-  align-self: auto;
-  font-style: Regular;
-  text-align: left;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: normal;
-  font-stretch: normal;
+  box-sizing: border-box;
+  border-color: transparent;
   margin-right: 0;
   margin-bottom: 0;
-  text-decoration: none;
 }
-.android-small2-text6 {
-  top: 446px;
-  left: 36px;
+.android-small3-text2 {
+  top: 342px;
+  left: 33px;
   color: rgba(0, 0, 0, 1);
   height: auto;
   position: absolute;
-  font-size: 20px;
+  font-size: 14px;
   align-self: auto;
   font-style: Regular;
   text-align: left;
