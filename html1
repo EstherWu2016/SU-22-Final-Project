@@ -1,0 +1,38 @@
+<div>
+  <link href="./android-small1.css" rel="stylesheet" />
+  <div>
+    <div class="android-small1-android-small1">
+      <img
+        src="/playground_assets/cal127-u72b-200h.png"
+        alt="Cal127"
+        class="android-small1-cal1"
+      />
+      <img
+        src="/playground_assets/explore128-uvzc-200h.png"
+        alt="explore128"
+        class="android-small1-explore1"
+      />
+      <a href="android-small2.html" class="android-small1-navlink">
+        <img
+          src="/playground_assets/kitchen1210-2wrd-200w.png"
+          alt="Kitchen1210"
+          class="android-small1-kitchen1"
+        />
+      </a>
+      <a href="android-small4.html" class="android-small1-navlink1">
+        <img
+          src="/playground_assets/map1311-abj-200h.png"
+          alt="map1311"
+          class="android-small1-map1"
+        />
+      </a>
+      <img
+        src="/playground_assets/bear1312-i9hc-300h.png"
+        alt="Bear1312"
+        class="android-small1-bear1"
+      />
+      <span class="android-small1-text"><span>MAP</span></span>
+      <span class="android-small1-text2"><span>FOOD</span></span>
+    </div>
+  </div>
+</div>
