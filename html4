@@ -1,0 +1,41 @@
+<div>
+  <link href="./android-small4.css" rel="stylesheet" />
+  <div>
+    <div class="android-small4-android-small4">
+      <img
+        src="/playground_assets/googlemap1333-ljw-400w.png"
+        alt="googlemap1333"
+        class="android-small4-googlemap1"
+      />
+      <a href="android-small2.html" class="android-small4-navlink">
+        <img
+          src="/playground_assets/ellipse1334-yjf-200w.png"
+          alt="Ellipse1334"
+          class="android-small4-ellipse1"
+        />
+      </a>
+      <a href="android-small1.html" class="android-small4-navlink1">
+        <img
+          src="/playground_assets/back1344-t9w-200h.png"
+          alt="back1344"
+          class="android-small4-back1"
+        />
+      </a>
+      <img
+        src="/playground_assets/ellipse272-wx9j-200w.png"
+        alt="Ellipse272"
+        class="android-small4-ellipse2"
+      />
+      <img
+        src="/playground_assets/ellipse373-18lh-200w.png"
+        alt="Ellipse373"
+        class="android-small4-ellipse3"
+      />
+      <img
+        src="/playground_assets/ellipse474-rrd-200w.png"
+        alt="Ellipse474"
+        class="android-small4-ellipse4"
+      />
+    </div>
+  </div>
+</div>
