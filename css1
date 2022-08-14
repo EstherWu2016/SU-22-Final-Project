@@ -1,0 +1,119 @@
+.android-small1-android-small1 {
+  width: 100%;
+  height: 640px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 360px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.android-small1-cal1 {
+  top: 25px;
+  left: 14px;
+  width: 122px;
+  height: 107px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.android-small1-explore1 {
+  top: 54px;
+  left: 136px;
+  width: 210px;
+  height: 111px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.android-small1-navlink {
+  display: contents;
+}
+.android-small1-kitchen1 {
+  top: 215px;
+  left: 188px;
+  width: 139px;
+  height: 151px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.android-small1-navlink1 {
+  display: contents;
+}
+.android-small1-map1 {
+  top: 206px;
+  left: 0px;
+  width: 180px;
+  height: 168px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.android-small1-bear1 {
+  top: 385px;
+  left: 0px;
+  width: 350px;
+  height: 255px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.android-small1-text {
+  top: 359px;
+  left: 56px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.android-small1-text2 {
+  top: 359px;
+  left: 241px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+@media(max-width: 479px) {
+  .android-small1-text {
+    top: 360px;
+    left: 77px;
+  }
+}
